@@ -10,9 +10,9 @@ A modern weather dashboard application built with Java Swing and Open-Meteo API.
 
 ## 📸 Screenshot
 
-![Dashboard](screenshots/dashboard.png)
-
-
+<img width="433" height="637" alt="image" src="https://github.com/user-attachments/assets/0c01f73b-07c6-4a92-ad2b-976fc4745359" />
+<img width="428" height="635" alt="image" src="https://github.com/user-attachments/assets/83509ad5-cf22-4d74-8333-9fec9019a318" />
+<img width="428" height="637" alt="image" src="https://github.com/user-attachments/assets/cacab23f-4f75-48d7-848a-f810da4d3bc3" />
 
 
 ## ✨ Features
