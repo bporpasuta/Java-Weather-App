@@ -67,7 +67,7 @@ Open-Meteo API
 
 1. Clone the repository
 
-git clone https://github.com/your-username/weather-app-java.git
+git clone https://github.com/bporpasuta/Java-Weather-App.git
 
 2. Open the project in IntelliJ IDEA
 
